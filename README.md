@@ -1,18 +1,35 @@
 # Deep Learning
-- **TensorFlow 2 and Keras - Quick Start Guide** - Basics of python libraries. 
+
+- **TensorFlow 2 and Keras - Quick Start Guide** - Basics of python libraries.
+
 - **Build your first Neural Network** - Basic Neural Network code implimented on Fashion MNIST Dataset.
-- [Heart Disease Prediction](https://www.curiousily.com/posts/heart-disease-prediction-in-tensorflow-2/)
-- [Cryptocurrency price prediction using LSTMs](https://www.curiousily.com/posts/cryptocurrency-price-prediction-in-tensorflow-2/)
-- [Practical Guide to Handling Imbalanced Datasets](https://www.curiousily.com/posts/practical-guide-to-handling-imbalanced-datasets/)
-- [Hacker's Guide to Fixing Underfitting and Overfitting Models](https://www.curiousily.com/posts/hackers-guide-to-fixing-underfitting-and-overfitting-models/)
-- [Hacker's Guide to Hyperparameter Tuning](https://www.curiousily.com/posts/hackers-guide-to-hyperparameter-tuning/)
-- [Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
-- [Hacker's Guide to Data Preparation for Machine Learning](https://www.curiousily.com/posts/hackers-guide-to-data-preparation-for-machine-learning/)
-- [Hacker's Guide to Fundamental Machine Learning Algorithms](https://www.curiousily.com/posts/hackers-guide-to-fundamental-machine-learning-algorithms/)
-- [Time Series Forecasting with LSTMs](https://www.curiousily.com/posts/time-series-forecasting-with-lstms-using-tensorflow-2-and-keras-in-python/)
-- [Time Series Demand Prediction with LSTMs](https://www.curiousily.com/posts/demand-prediction-with-lstms-using-tensorflow-2-and-keras-in-python/)
-- [Time Series Classification for Human Activity Recognition with LSTMs](https://www.curiousily.com/posts/time-series-classification-for-human-activity-recognition-with-lstms-in-keras/)
-- [Time Series Anomaly Detection with LSTM Autoencoders](https://www.curiousily.com/posts/anomaly-detection-in-time-series-with-lstms-using-keras-in-python/)
-- [Object Detection on Custom Dataset](https://www.curiousily.com/posts/object-detection-on-custom-dataset-with-tensorflow-2-and-keras-using-python/)
-- [Image Data Augmentation](https://www.curiousily.com/posts/image-data-augmentation-for-tensorflow-2-keras-and-pytorch-with-albumentations-in-python/)
-- [Sentiment Analysis](https://www.curiousily.com/posts/sentiment-analysis-with-tensorflow-2-and-keras-using-python/)
+
+- **Heart Disease Prediction** - Heart Disease Pridiction Model.
+
+- **Cryptocurrency price prediction using LSTMs** - Pridict the rise and drop in Cryptocurrency Prices.
+
+- **Practical Guide to Handling Imbalanced Datasets** - How to deal with Imbalanced Datasets (possible measures).
+
+- **Fixing Underfitting and Overfitting Models** - Fixing Underfitting and Overfitting problems.
+
+- **Hyperparameter Tuning** - Playing with the Hyperpatameters.
+
+- **Deploy a Keras Deep Learning Project to Production with Flask** - Deploying the M.L. models using Python Flask.
+
+- **Data Preparation for Machine Learning** - Prepare data before using it in the M.L model.
+
+- **Fundamental Machine Learning Algorithms** - Basic Algorithms in M.L
+
+- **Time Series Forecasting with LSTMs**
+
+- **Time Series Demand Prediction with LSTMs**
+
+- **Time Series Classification for Human Activity Recognition with LSTMs**
+
+- **Time Series Anomaly Detection with LSTM Autoencoders**
+
+- **Object Detection on Custom Dataset** - Detect Objects by training your own Datasets.
+
+- **Image Data Augmentation**
+
+- **Sentiment Analysis**
